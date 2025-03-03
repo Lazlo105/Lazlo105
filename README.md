@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-- Student ITMO University⚡
+- Student ITMO University
